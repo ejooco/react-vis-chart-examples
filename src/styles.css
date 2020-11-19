@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.ChartsOne,
+.ChartsThree-1,
+.ChartsThree-2,
+.ChartsThree-3 {
+  display: flex;
+}
